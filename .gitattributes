@@ -1,0 +1,10 @@
+*.jpeg binary
+build/* linguist-vendored
+
+src/**/*.ts linguist-detectable
+
+*.html linguist-vendored
+docs/*.html linguist-vendored
+* text=auto
+src/** linguist-detectable
+# eof 625ff2c4
