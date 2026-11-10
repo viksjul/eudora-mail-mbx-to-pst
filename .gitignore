@@ -1,0 +1,9 @@
+*.log
+.cache/
+npm-debug.log*
+.env
+.env.local
+build/
+dist/
+coverage/
+.pnpm-store/
